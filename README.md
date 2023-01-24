@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hello! :wave:
+
+My name is Sam Gillespie. I am currently a third year student studying aerospace engineering at Iowa State University. I am interested in learning more about flight structures and analysis and testing techniques in the aerospace industry. I am currently working on learning Visual Basic .NET on my own in order to prepare myself for my internship this summer. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **SamGillespie1/SamGillespie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
